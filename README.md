@@ -1,4 +1,9 @@
 TuringRouter OS is a modern, powerful, and user-friendly router operating system.
+
+Language Switch： 
+简体中文（README_ZH.MD) https://github.com/sitzising/TuringRouter-OS/blob/main/README.zh.md
+English（README.MD) https://github.com/sitzising/TuringRouter-OS/blob/main/README.md
+
 It is designed to lower the barrier to entry while providing professional-grade features.
 Our goal is to combine professional routing capabilities with a modern, user-friendly interface, making it easier for both ordinary users and professional network administrators to manage their networks.
 TuringRouter OS aims to gradually implement comprehensive capabilities such as network device management, traffic monitoring, security policy configuration, and network infrastructure management.
